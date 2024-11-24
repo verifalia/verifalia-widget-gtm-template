@@ -1,3 +1,5 @@
 homepage: "https://verifalia.com"
 documentation: "https://verifalia.com/email-verification-widget"
 versions:
+  - sha: 25023ebd1eb0f53018a0cf91b98fb59c6573e602
+    changeNotes: Initial release
